@@ -1,0 +1,27 @@
+/* add your CSS here */
+
+body{
+  	font-family: 'Open Sans', sans-serif;
+  	color: #222;
+	margin: 50px;
+	padding: 15px;
+	border: 1px solid;
+	width: 310px;
+	box-shadow: 5px 10px #888888;
+}
+
+li > span{
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+.content{
+	padding: 15px;
+	border: 1px solid;
+	margin-top: 15px;
+	width: 269px;
+}
